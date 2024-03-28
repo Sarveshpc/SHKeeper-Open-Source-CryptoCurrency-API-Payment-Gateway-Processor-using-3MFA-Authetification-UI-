@@ -1,5 +1,5 @@
-venv/
 .venv/
+venv/
 *.pyc
 __pycache__/
 instance/
@@ -13,3 +13,7 @@ build/
 .idea/
 *.swp
 *~
+*.db
+celerybeat-schedule
+data/
+.git
